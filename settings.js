@@ -14,8 +14,8 @@ global.ownername = '𝛭𝛯𝐿𝐿𝛩' //ur owner name
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '260973762953' //ur owner number
-global.premium = ["260973762953"] // Premium User
+global.ownernumber = '260969724302' //ur owner number
+global.premium = ["260969724302"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
